@@ -26,3 +26,7 @@ Linear Regression
 
 ## Output
 The model predicts future sales based on historical sales data.
+
+#INTERN ID
+CITS1245
+
